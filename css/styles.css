@@ -3,13 +3,20 @@
   height: auto;
   position: absolute;
   border: 60px solid pink;
-  margin: 0% pink;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin: pink;
 }
 
 .theme {
   text-align: left;
   font-family: Helvetica;
   font-weight: lighter;
+  background-color: white;
+}
+
+.center {
+  text-align: center;
 }
 
 .line {
@@ -27,19 +34,18 @@
 .columns {
   display: inline-block;
   padding: 3%;
-  width: 50%;
+  width: 85%;
   color: rgb(50, 49, 49);
 }
 
 .img {
   padding: 5px;
-  width: 50%;
+  width: 52%;
   height: auto;
   margin: auto;
   display: block;
   float: right;
 }
-
 
 .columns p {
   color: slategray;
