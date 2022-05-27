@@ -32,16 +32,29 @@
   display: block;
 }
 
+
+.line2 {
+  padding: .5%;
+  border: solid cadetblue;
+  background-color: cadetblue;
+  border-width: 10%;
+  margin-top: auto;
+  margin-bottom: auto;
+  box-sizing: border-box;
+  margin: 0% ;
+  display: block;
+}
+
 .columns {
   display: inline-block;
   padding: 3%;
-  width: 85%;
+  width: 85.5%;
   color: rgb(50, 49, 49);
 }
 
 .img {
   padding: 5px;
-  width: 52%;
+  width: 52.5%;
   height: auto;
   margin: auto;
   display: block;
