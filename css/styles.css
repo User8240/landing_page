@@ -6,13 +6,14 @@
   margin-left: 15%;
   margin-right: 15%;
   margin: pink;
+  background-color: white;
 }
 
 .theme {
   text-align: left;
   font-family: Helvetica;
   font-weight: lighter;
-  background-color: white;
+  background-color: pink;
 }
 
 .center {
@@ -50,4 +51,9 @@
 .columns p {
   color: slategray;
   font-weight: lighter;
+}
+
+.span {
+  color: cadetblue;
+  font-weight: bold;
 }
