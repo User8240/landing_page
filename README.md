@@ -1,4 +1,4 @@
-# _landing_page_
+# _Landing Page_
 
 #### By _**Grace Kostanich**_
 
