@@ -15,7 +15,7 @@ _This is a webpage written in HTML using CSS styling_
 
 ## Link to Site via GitHub Pages
 
-*_User8240.github.io/landing_page._
+*_https://user8240.github.io/landing_page/_
 
 ## Setup/Installation Requirements
 
